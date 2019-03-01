@@ -1,0 +1,7 @@
+C:\Users\marko\Desktop\MyApps\VisualStudio\xmasTree\xmasTree\xmasTree\bin\Debug\xmasTree.exe.config
+C:\Users\marko\Desktop\MyApps\VisualStudio\xmasTree\xmasTree\xmasTree\bin\Debug\xmasTree.exe
+C:\Users\marko\Desktop\MyApps\VisualStudio\xmasTree\xmasTree\xmasTree\bin\Debug\xmasTree.pdb
+C:\Users\marko\Desktop\MyApps\VisualStudio\xmasTree\xmasTree\xmasTree\obj\Debug\xmasTree.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\MyApps\VisualStudio\xmasTree\xmasTree\xmasTree\obj\Debug\xmasTree.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\MyApps\VisualStudio\xmasTree\xmasTree\xmasTree\obj\Debug\xmasTree.exe
+C:\Users\marko\Desktop\MyApps\VisualStudio\xmasTree\xmasTree\xmasTree\obj\Debug\xmasTree.pdb
