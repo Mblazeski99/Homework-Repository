@@ -1,0 +1,7 @@
+C:\Users\marko\Desktop\namesArray\namesArray\bin\Debug\namesArray.exe.config
+C:\Users\marko\Desktop\namesArray\namesArray\bin\Debug\namesArray.exe
+C:\Users\marko\Desktop\namesArray\namesArray\bin\Debug\namesArray.pdb
+C:\Users\marko\Desktop\namesArray\namesArray\obj\Debug\namesArray.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\namesArray\namesArray\obj\Debug\namesArray.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\namesArray\namesArray\obj\Debug\namesArray.exe
+C:\Users\marko\Desktop\namesArray\namesArray\obj\Debug\namesArray.pdb
