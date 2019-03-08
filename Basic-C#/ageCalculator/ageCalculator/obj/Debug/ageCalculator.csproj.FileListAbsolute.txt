@@ -1,0 +1,7 @@
+C:\Users\marko\Desktop\ageCalculator\ageCalculator\bin\Debug\ageCalculator.exe.config
+C:\Users\marko\Desktop\ageCalculator\ageCalculator\bin\Debug\ageCalculator.exe
+C:\Users\marko\Desktop\ageCalculator\ageCalculator\bin\Debug\ageCalculator.pdb
+C:\Users\marko\Desktop\ageCalculator\ageCalculator\obj\Debug\ageCalculator.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\ageCalculator\ageCalculator\obj\Debug\ageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\ageCalculator\ageCalculator\obj\Debug\ageCalculator.exe
+C:\Users\marko\Desktop\ageCalculator\ageCalculator\obj\Debug\ageCalculator.pdb
