@@ -1,0 +1,7 @@
+C:\Users\code\Desktop\class06\class06\bin\Debug\class06.exe.config
+C:\Users\code\Desktop\class06\class06\bin\Debug\class06.exe
+C:\Users\code\Desktop\class06\class06\bin\Debug\class06.pdb
+C:\Users\code\Desktop\class06\class06\obj\Debug\class06.csprojAssemblyReference.cache
+C:\Users\code\Desktop\class06\class06\obj\Debug\class06.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\class06\class06\obj\Debug\class06.exe
+C:\Users\code\Desktop\class06\class06\obj\Debug\class06.pdb
