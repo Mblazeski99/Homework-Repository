@@ -1,0 +1,7 @@
+C:\Users\marko\Desktop\students\students\bin\Debug\students.exe.config
+C:\Users\marko\Desktop\students\students\bin\Debug\students.exe
+C:\Users\marko\Desktop\students\students\bin\Debug\students.pdb
+C:\Users\marko\Desktop\students\students\obj\Debug\students.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\students\students\obj\Debug\students.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\students\students\obj\Debug\students.exe
+C:\Users\marko\Desktop\students\students\obj\Debug\students.pdb
