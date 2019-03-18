@@ -1,0 +1,7 @@
+C:\Users\marko\Desktop\MyApps\VisualStudio\Library\Library\bin\Debug\Library.exe.config
+C:\Users\marko\Desktop\MyApps\VisualStudio\Library\Library\bin\Debug\Library.exe
+C:\Users\marko\Desktop\MyApps\VisualStudio\Library\Library\bin\Debug\Library.pdb
+C:\Users\marko\Desktop\MyApps\VisualStudio\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\MyApps\VisualStudio\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\MyApps\VisualStudio\Library\Library\obj\Debug\Library.exe
+C:\Users\marko\Desktop\MyApps\VisualStudio\Library\Library\obj\Debug\Library.pdb
