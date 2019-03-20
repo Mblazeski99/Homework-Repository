@@ -1,0 +1,7 @@
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
