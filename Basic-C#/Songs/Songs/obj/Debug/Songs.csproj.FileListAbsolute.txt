@@ -1,0 +1,7 @@
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\Songs\Songs\bin\Debug\Songs.exe.config
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\Songs\Songs\bin\Debug\Songs.exe
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\Songs\Songs\bin\Debug\Songs.pdb
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\Songs\Songs\obj\Debug\Songs.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\Songs\Songs\obj\Debug\Songs.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\Songs\Songs\obj\Debug\Songs.exe
+C:\Users\marko\Desktop\MyApps\VisualStudio\BasicC#\Songs\Songs\obj\Debug\Songs.pdb
