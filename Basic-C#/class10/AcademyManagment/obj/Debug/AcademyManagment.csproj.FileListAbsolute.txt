@@ -1,0 +1,7 @@
+C:\Users\code\Desktop\class10\AcademyManagment\obj\Debug\AcademyManagment.csprojAssemblyReference.cache
+C:\Users\code\Desktop\class10\AcademyManagment\obj\Debug\AcademyManagment.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\class10\AcademyManagment\bin\Debug\AcademyManagment.exe.config
+C:\Users\code\Desktop\class10\AcademyManagment\bin\Debug\AcademyManagment.exe
+C:\Users\code\Desktop\class10\AcademyManagment\bin\Debug\AcademyManagment.pdb
+C:\Users\code\Desktop\class10\AcademyManagment\obj\Debug\AcademyManagment.exe
+C:\Users\code\Desktop\class10\AcademyManagment\obj\Debug\AcademyManagment.pdb
