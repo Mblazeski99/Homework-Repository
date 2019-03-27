@@ -1,0 +1,10 @@
+C:\Users\marko\Desktop\appUi\appUI\appUI\bin\Debug\appUI.exe.config
+C:\Users\marko\Desktop\appUi\appUI\appUI\bin\Debug\appUI.exe
+C:\Users\marko\Desktop\appUi\appUI\appUI\bin\Debug\appUI.pdb
+C:\Users\marko\Desktop\appUi\appUI\appUI\bin\Debug\Entities.dll
+C:\Users\marko\Desktop\appUi\appUI\appUI\bin\Debug\Entities.pdb
+C:\Users\marko\Desktop\appUi\appUI\appUI\obj\Debug\appUI.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\appUi\appUI\appUI\obj\Debug\appUI.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\appUi\appUI\appUI\obj\Debug\appUI.csproj.CopyComplete
+C:\Users\marko\Desktop\appUi\appUI\appUI\obj\Debug\appUI.exe
+C:\Users\marko\Desktop\appUi\appUI\appUI\obj\Debug\appUI.pdb
